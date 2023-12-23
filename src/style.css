@@ -1,0 +1,18 @@
+:root {
+    --tier-color-red: rgb(195, 3, 3);
+    --tier-color-orange: rgb(189, 95, 1);
+    --tier-color-yellow: rgb(177, 133, 0);
+    --tier-color-green: rgb(59, 118, 0);
+    --tier-color-transparent: rgba(60, 118, 1, 0);
+
+    --border-color: rgb(71, 71, 71);
+}
+
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
